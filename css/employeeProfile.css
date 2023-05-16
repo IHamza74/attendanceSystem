@@ -1,0 +1,24 @@
+#table3Div {
+    /* visibility: hidden; */
+    display: none;
+}
+
+#table2Div {
+    display: block;
+}
+
+#table4Div {
+    display: none;
+}
+
+.allDetailsCollection {
+    display: none;
+}
+
+.certianDurationCollection {
+    display: none;
+}
+
+/* .certianDurationCollection>* {
+    display: none;
+} */

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link href="../css/login.css" rel="stylesheet">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+        integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="../css/bootstrap.css" rel="stylesheet">
+
+
+    <title>register</title>
+</head>
+
+<body class="d-flex flex-column min-vh-100 ">
+
+    <section class=" container" id="mainWrapper">
+        <div class="navbar navbar-expand justify-content-between mb-2 align-items-center">
+            <img class="row col-2 col-md-1 " id="logo" src="../imgs/logoJPG.jpg">
+
+            <a class=" text-decoration-none" href="#">Home</a>
+
+            <a class="text-decoration-none" href="#">About</a>
+
+            <a class="text-decoration-none" href="#">Projects</a>
+
+            <a class="d-none d-lg-block text-decoration-none" href="#">contact us</a>
+
+            <div class=" ">
+                <a href="./login.html" class="  btn btn-primary  btn-sm">login</a>
+            </div>
+        </div>
+        <form class="container needs-validation col-8 justify-content-center" novalidate method="get" action="#">
+            <div class="has-validation mt-3">
+                <label for="userFirstName" class=" form-label">First Name</label>
+                <input type="text" class=" form-control" id="userFirstName" placeholder="enter your first name" required
+                    pattern="^[a-zA-Z]{4,20}$" name="userFirstName">
+                <div class=" valid-feedback"> great</div>
+                <div class="invalid-feedback"> you may type only alphabets </div>
+            </div>
+            <div class="has-validation  mt-3">
+                <label for="userLastName" class=" form-label">Last Name</label>
+                <input type="text" class=" form-control" id="userLastName" placeholder="enter your last name" required
+                    pattern="^[a-zA-Z]{4,20}$" name="userLastName">
+                <div class=" valid-feedback"> great</div>
+                <div class="invalid-feedback"> you may type only alphabets </div>
+            </div>
+            <div class="has-validation  mt-3">
+                <label for="userMail" class=" form-label">E-mail</label>
+                <input type="text" class=" form-control" id="userMail" placeholder="enter your E-mail" required
+                    pattern="^[^\s@]+@[^\s@]+\.[^\s@]+$" name="userMail">
+                <div class=" valid-feedback"> great</div>
+                <div class="invalid-feedback"> you must enter a valid E-mail </div>
+            </div>
+            <div class="has-validation  mt-3">
+                <label for="userID" class=" form-label">ID</label>
+                <input type="text" class=" form-control" id="userID" placeholder="enter your ID" required
+                    pattern="^[\d+$]{14}" name="userID">
+                <div class=" valid-feedback"> great</div>
+                <div class="invalid-feedback"> you must enter a valid ID consisting of 14 numbers </div>
+            </div>
+            <div class="has-validation  mt-3">
+                <label for="userAddress" class=" form-label">Address</label>
+                <input type="text" class=" form-control" id="userAddress" placeholder="enter your address" required
+                    pattern="^[a-zA-Z0-9'.,-]{20,200}$" name="userAddress" value="">
+                <div class=" valid-feedback"> great</div>
+                <div class="invalid-feedback"> you must enter a valid address - not less than 20 characters- </div>
+            </div>
+            <div class="has-validation  mt-3">
+                <label for="userAge" class=" form-label">Age</label>
+                <input type="text" class=" form-control" id="userAge" placeholder="enter your age" required
+                    pattern="(1[89]|[2-5][0-9])" name="userAge">
+                <div class=" valid-feedback"> great</div>
+                <div class="invalid-feedback"> you must enter a valid age - age must be between 18 to 59 yo - </div>
+            </div>
+            <div class="col-12">
+                <!-- <button class="btn btn-primary my-3" id="submit" type="submit">Submit form</button> -->
+                <input class="btn btn-primary my-3" id="submit" type="button" value="Submit form" />
+                <button class="btn btn-secondary my-3" id="reset" type="reset">reset form</button>
+            </div>
+        </form>
+
+    </section>
+    </section>
+    <section class="mt-auto">
+        <div class="d-flex align-items-center justify-content-center bg-black text-light col-12"> All copyrights are
+
+            reserved&nbsp;&nbsp;&nbsp; &nbsp; <i class="fa-brands fa-facebook"></i>&nbsp;&nbsp;
+            <i class="fa-brands fa-twitter"></i>&nbsp;&nbsp; <i class="fa-brands fa-linkedin"></i>
+        </div>
+
+    </section><!-- End footer-->
+    </section><!-- End main Wrapper-->
+
+    <script src="https://smtpjs.com/v3/smtp.js"></script>
+    <script type="module" src="../js/registrationProcess.js"></script>
+    <script src="../js/register.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,902 @@
+{
+  "security": [
+    {
+      "id": 1,
+      "fName": "islam",
+      "lName": "ashraf",
+      "mail": "islam.a.hamza95@gmail.com",
+      "NationalId": "29500961683334",
+      "address": "elMahallaElkubraEgypt22sadsdasd",
+      "age": "24",
+      "userName": "islaIUAJ5",
+      "password": "ePfDaFtb5ceOW",
+      "attendanceLog": {
+        "1-21-2023": {
+          "checkIn": "17:46",
+          "checkOut": "21:50",
+          "late": 0,
+          "absence": true,
+          "excuse": false
+        },
+        "1-22-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true
+        },
+        "1-25-2023": {
+          "checkIn": "21:08",
+          "checkOut": "15:30",
+          "late": 0,
+          "absence": true,
+          "excuse": false
+        },
+        "2-22-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-24-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        }
+      }
+    },
+    {
+      "id": 2,
+      "fName": "islam",
+      "lName": "ashraf",
+      "mail": "boxoti1103@vingood.com",
+      "NationalId": "29502261601331",
+      "address": "elMahallaElkubraEgypt22sadsdasd",
+      "age": "24",
+      "userName": "islaY5ACB",
+      "password": "YmzQRmYExYjTf",
+      "attendanceLog": {
+        "1-21-2023": {
+          "checkIn": "21:51",
+          "checkOut": "21:51",
+          "late": 0,
+          "absence": true,
+          "excuse": false
+        },
+        "1-25-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-22-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-24-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        }
+      }
+    },
+    {
+      "id": 3,
+      "fName": "wdas",
+      "lName": "sdasd",
+      "mail": "islamss@gmail.com",
+      "NationalId": "29502261567331",
+      "address": "dddddddddddddddddddddddddddd",
+      "age": "33",
+      "userName": "w",
+      "password": "rKXp9KEDmEKyG",
+      "attendanceLog": {
+        "1-21-2023": {
+          "checkIn": null,
+          "checkOut": null,
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "1-25-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-22-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-24-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        }
+      }
+    },
+    {
+      "id": 4,
+      "fName": "islam",
+      "lName": "ashraf",
+      "mail": "boxoti1103@vingood.com",
+      "NationalId": "88888886548882",
+      "address": "elMahallaElkubraEgypt22sadsdasd",
+      "age": "55",
+      "userName": "islaA9ROR",
+      "password": "Dvj4V3XyFcKLR",
+      "attendanceLog": {
+        "1-21-2023": {
+          "checkIn": "22:28",
+          "checkOut": "22:28",
+          "late": 0,
+          "absence": true
+        },
+        "1-25-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-22-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-24-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        }
+      }
+    },
+    {
+      "id": 5,
+      "fName": "ahmed",
+      "lName": "elagezy",
+      "mail": "tigili6742@quamox.com",
+      "NationalId": "29502261602331",
+      "address": "elMahallaElkubraEgypt22sadsdasd",
+      "age": "55",
+      "userName": "ahme8IV62",
+      "password": "IjCOJRexCCzsX",
+      "attendanceLog": {
+        "1-21-2023": {
+          "checkIn": null,
+          "checkOut": null,
+          "late": false,
+          "absence": true
+        },
+        "1-25-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-22-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-24-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        }
+      }
+    },
+    {
+      "id": 6,
+      "fName": "islam",
+      "lName": "ashraf",
+      "mail": "boxoti1103@vingood.com",
+      "NationalId": "29502260001334",
+      "address": "elMahallaElkubraEgypt22sadsdasd",
+      "age": "23",
+      "userName": "isla27935",
+      "password": "oTsi7jZbHR_z%",
+      "isAdmin": false,
+      "attendanceLog": {
+        "1-21-2023": {
+          "checkIn": null,
+          "checkOut": null,
+          "late": false,
+          "absence": true
+        },
+        "1-25-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-22-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-24-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        }
+      }
+    },
+    {
+      "id": 7,
+      "fName": "islam",
+      "lName": "ashraf",
+      "mail": "boxoti1103@vingood.com",
+      "NationalId": "29502261601303",
+      "address": "elMahallaElkubraEgypt22sadsdasd",
+      "age": "22",
+      "userName": "islaUO4BT",
+      "password": "odFmQEA4v8Lb4",
+      "isAdmin": false,
+      "attendanceLog": {
+        "1-25-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-22-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-24-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        }
+      }
+    },
+    {
+      "id": 8,
+      "fName": "ahmed",
+      "lName": "elagezy",
+      "mail": "boxoti1103@vingood.com",
+      "NationalId": "22222222222222",
+      "address": "elMahallaElkubraEgypt22sadsdasd",
+      "age": "22",
+      "userName": "ahme_JY-E",
+      "password": "X4NrQ1wDVX1Lw",
+      "isAdmin": false,
+      "attendanceLog": {
+        "1-25-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-22-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-24-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        }
+      }
+    },
+    {
+      "id": 9,
+      "fName": "ahmed",
+      "lName": "elagezy",
+      "mail": "islam.a.hamza95@gmail.com",
+      "NationalId": "29502268951331",
+      "address": "elMahallaElkubraEgypt22sadsdasd",
+      "age": "24",
+      "userName": "ahme7RGYQ",
+      "password": "viwS9yd!skNpt",
+      "isAdmin": false,
+      "attendanceLog": {
+        "2-22-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-24-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        }
+      }
+    },
+    {
+      "id": 10,
+      "fName": "ahmed",
+      "lName": "elagezy",
+      "mail": "boxoti1103@vingood.com",
+      "NationalId": "22222225555222",
+      "address": "elMahallaElkubraEgypt22sadsdasd",
+      "age": "33",
+      "userName": "ahmeXH1NT",
+      "password": "k7Cq429!zUsI_",
+      "isAdmin": false,
+      "attendanceLog": {
+        "2-22-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-24-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        }
+      }
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "fName": "wdas",
+      "lName": "sdasd",
+      "mail": "islamss@gmail.com",
+      "NationalId": "29555561622334",
+      "address": "dddddddddddddddddddddddddddd",
+      "age": "55",
+      "userName": "wdasWYJUO",
+      "password": "111",
+      "attendanceLog": {
+        "1-21-2023": {
+          "checkIn": null,
+          "checkOut": null,
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "1-22-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "1-25-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-22-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-24-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        }
+      }
+    },
+    {
+      "id": 2,
+      "fName": "islam",
+      "lName": "ashraf",
+      "mail": "boxoti1103@vingood.com",
+      "NationalId": "29502262201300",
+      "address": "elMahallaElkubraEgypt22sadsdasd",
+      "age": "23",
+      "userName": {},
+      "password": "c2oSvpH%bG1Ot",
+      "attendanceLog": {
+        "1-21-2023": {
+          "checkIn": null,
+          "checkOut": null,
+          "late": false,
+          "absence": true
+        },
+        "1-22-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true
+        },
+        "1-25-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-22-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-24-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        }
+      }
+    },
+    {
+      "id": 3,
+      "fName": "islam",
+      "lName": "ashraf",
+      "mail": "boxoti1103@vingood.com",
+      "NationalId": "29502298520334",
+      "address": "elMahallaElkubraEgypt22sadsdasd",
+      "age": "23",
+      "userName": "i",
+      "password": "111",
+      "attendanceLog": {
+        "1-21-2023": {
+          "checkIn": null,
+          "checkOut": null,
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "1-22-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "1-25-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-22-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-24-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        }
+      }
+    },
+    {
+      "id": 4,
+      "fName": "ahmed",
+      "lName": "elagezy",
+      "mail": "boxoti1103@vingood.com",
+      "NationalId": "22222222222222",
+      "address": "elMahallaElkubraEgypt22sadsdasd",
+      "age": "22",
+      "userName": "ahmeVLY6S",
+      "password": "klhHHkGssugIA",
+      "attendanceLog": {
+        "1-21-2023": {
+          "checkIn": null,
+          "checkOut": null,
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "1-22-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "1-25-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-22-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-24-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        }
+      }
+    },
+    {
+      "id": 5,
+      "fName": "ahmed",
+      "lName": "elagezy",
+      "mail": "boxoti1103@vingood.com",
+      "NationalId": "29502260001331",
+      "address": "elMahallaElkubraEgypt22sadsdasd",
+      "age": "22",
+      "userName": {},
+      "password": "j6D!!OF_iqjry",
+      "attendanceLog": {
+        "1-21-2023": {
+          "checkIn": null,
+          "checkOut": null,
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "1-22-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "1-25-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-22-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-24-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        }
+      }
+    },
+    {
+      "id": 6,
+      "fName": "ahmed",
+      "lName": "elagezy",
+      "mail": "boxoti1103@vingood.com",
+      "NationalId": "29502261601334",
+      "address": "elMahallaElkubraEgypt22sadsdasd",
+      "age": "55",
+      "userName": "ahmeCLS4H",
+      "password": "UOjwudV$5TAF_",
+      "attendanceLog": {
+        "1-21-2023": {
+          "checkIn": null,
+          "checkOut": null,
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "1-22-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "1-25-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-22-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-24-2023": {
+          "checkIn": "15:39",
+          "checkOut": "15:30",
+          "late": 0,
+          "absence": true,
+          "excuse": false
+        }
+      }
+    },
+    {
+      "id": 7,
+      "fName": "ahmed",
+      "lName": "elagezy",
+      "mail": "tigili6742@quamox.com",
+      "NationalId": "22222222222222",
+      "address": "elMahallaElkubraEgypt22sadsdasd",
+      "age": "23",
+      "userName": "ahmeKEY8R",
+      "password": "YPAZi_$Y9AyGO",
+      "attendanceLog": {
+        "1-21-2023": {
+          "checkIn": null,
+          "checkOut": null,
+          "late": false,
+          "absence": true
+        },
+        "1-22-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true
+        },
+        "1-25-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-22-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-24-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        }
+      }
+    },
+    {
+      "id": 8,
+      "fName": "ahmed",
+      "lName": "elagezy",
+      "mail": "tigili6742@quamox.com",
+      "NationalId": "29502261601331",
+      "address": "elMahallaElkubraEgypt22sadsdasd",
+      "age": "55",
+      "userName": "ahme76_-V",
+      "password": "W8tq4Rg%-LG$0",
+      "isAdmin": false,
+      "attendanceLog": {
+        "1-21-2023": {
+          "checkIn": null,
+          "checkOut": null,
+          "late": false,
+          "absence": true
+        },
+        "1-22-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true
+        },
+        "1-25-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-22-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-24-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        }
+      }
+    },
+    {
+      "id": 9,
+      "fName": "wdas",
+      "lName": "sdasd",
+      "mail": "islamss@gmail.com",
+      "NationalId": "29502261676881",
+      "address": "dddddddddddddddddddddddddddd",
+      "age": "55",
+      "userName": "wdasYQWQI",
+      "password": "K@dciytFu-bpk",
+      "isAdmin": false,
+      "attendanceLog": {
+        "1-25-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-22-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-24-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        }
+      }
+    },
+    {
+      "id": 10,
+      "fName": "ahmed",
+      "lName": "elagezy",
+      "mail": "islam.a.hamza95@gmail.com",
+      "NationalId": "29502268951331",
+      "address": "elMahallaElkubraEgypt22sadsdasd",
+      "age": "24",
+      "userName": "ahme7RGYQ",
+      "password": "viwS9yd!skNpt",
+      "isAdmin": false,
+      "attendanceLog": {
+        "2-22-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-24-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        }
+      }
+    },
+    {
+      "id": 11,
+      "fName": "khalo",
+      "lName": "mahmoud",
+      "mail": "mahmoudalimenyawy@gmail.com",
+      "NationalId": "29502268951331",
+      "address": "Mansoura",
+      "age": "24",
+      "userName": "ahme7RGYQ",
+      "password": "viwS9yd!skNpt",
+      "isAdmin": false,
+      "attendanceLog": {
+        "2-22-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        },
+        "2-24-2023": {
+          "checkIn": null,
+          "checkOut": "15:30",
+          "late": false,
+          "absence": true,
+          "excuse": false
+        }
+      }
+    }
+  ],
+  "pendingEmployees": [
+    {
+      "id": 31,
+      "fName": "ahmed",
+      "lName": "elagezy",
+      "mail": "tigili6742@quamox.com",
+      "NationalId": "29502268951331",
+      "address": "elMahallaElkubraEgypt22sadsdasd",
+      "age": "24",
+      "userName": "ahme7RGYQ",
+      "password": "viwS9yd!skNpt",
+      "isAdmin": false
+    },
+    {
+      "id": 32,
+      "fName": "ahmed",
+      "lName": "elagezy",
+      "mail": "tigili6742@quamox.com",
+      "NationalId": "29502268951331",
+      "address": "elMahallaElkubraEgypt22sadsdasd",
+      "age": "24",
+      "userName": "ahme7RGYQ",
+      "password": "viwS9yd!skNpt",
+      "isAdmin": false
+    },
+    {
+      "id": 33,
+      "fName": "ahmed",
+      "lName": "elagezy",
+      "mail": "tigili6742@quamox.com",
+      "NationalId": "29502268951331",
+      "address": "elMahallaElkubraEgypt22sadsdasd",
+      "age": "24",
+      "userName": "ahme7RGYQ",
+      "password": "viwS9yd!skNpt",
+      "isAdmin": false
+    },
+    {
+      "id": 34,
+      "fName": "ahmed",
+      "lName": "elagezy",
+      "mail": "tigili6742@quamox.com",
+      "NationalId": "29502268951331",
+      "address": "elMahallaElkubraEgypt22sadsdasd",
+      "age": "24",
+      "userName": "ahme7RGYQ",
+      "password": "viwS9yd!skNpt",
+      "isAdmin": false
+    }
+  ]
+}

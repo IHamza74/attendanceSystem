@@ -1,0 +1,18 @@
+table {
+    width: 80vw;
+    border: 2px solid red;
+    margin: 20px auto;
+}
+
+td,
+th {
+    width: fit-content;
+    border: 2px solid black;
+    padding: 5px;
+    text-align: center;
+}
+
+tr {
+    border: 2px solid black;
+    padding: 2px;
+}

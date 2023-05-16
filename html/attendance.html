@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link href="../css/attendance.css" rel="stylesheet">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+        integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="../css/bootstrap.css" rel="stylesheet">
+    <title>attendance</title>
+</head>
+
+<body class="">
+
+    <section class=" container d-flex flex-column min-vh-100 h-auto " id="mainWrapper">
+        <div class="navbar navbar-expand justify-content-between mb-2 align-items-center">
+            <img class="row col-2 col-md-1 " id="logo" src="../imgs/logoJPG.jpg">
+
+            <a class=" text-decoration-none" href="#">Home</a>
+
+            <a class="text-decoration-none" href="#">About</a>
+
+            <a class="text-decoration-none" href="#">Projects</a>
+
+            <a class="d-none d-lg-block text-decoration-none" href="#">contact us</a>
+
+            <div class=" ">
+                <a id="signout" class="  btn btn-danger  btn-sm">signout</a>
+            </div>
+        </div>
+        <section class=" container d-flex justify-content-center mt-5">
+            <form class=" col-6 ">
+                <div class="mb-2">
+                    <label for="userName" class="form-label">Username</label>
+                    <input type="text" class="form-control" id="userName" required>
+                </div>
+                <div>
+                    <label for="cars">attendance for an:</label>
+                    <select name="path" id="path">
+                        <option value="employees">employees</option>
+                        <option value="security">security</option>
+                    </select>
+                </div>
+                <div class="flex-row my-4 ">
+                    <button class="col-5 btn btn-success" type="submit">confirm attendance</button>
+                    <button class="col-5  btn btn-danger" type="button" id="defaults">every day
+                        deafults</button>
+                </div>
+            </form>
+        </section>
+    </section>
+    <section class="">
+        <div class="d-flex align-items-center justify-content-center bg-black text-light col-12"> All copyrights are
+
+            reserved&nbsp;&nbsp;&nbsp; &nbsp; <i class="fa-brands fa-facebook"></i>&nbsp;&nbsp;
+            <i class="fa-brands fa-twitter"></i>&nbsp;&nbsp; <i class="fa-brands fa-linkedin"></i>
+        </div>
+
+    </section><!-- End footer-->
+    </section><!-- End main Wrapper-->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <!-- <script src="jquery.miniNoty.js"></script> -->
+    <script type="module" src="../js/attendance.js"></script>
+</body>
+
+</html>
